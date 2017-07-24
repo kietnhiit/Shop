@@ -1,0 +1,10 @@
+D:\NhiF\Shopping\Shop\Model\bin\Debug\Model.dll.config
+D:\NhiF\Shopping\Shop\Model\bin\Debug\Model.dll
+D:\NhiF\Shopping\Shop\Model\bin\Debug\Model.pdb
+D:\NhiF\Shopping\Shop\Model\bin\Debug\EntityFramework.dll
+D:\NhiF\Shopping\Shop\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\NhiF\Shopping\Shop\Model\bin\Debug\EntityFramework.xml
+D:\NhiF\Shopping\Shop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\NhiF\Shopping\Shop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\NhiF\Shopping\Shop\Model\obj\Debug\Model.dll
+D:\NhiF\Shopping\Shop\Model\obj\Debug\Model.pdb
